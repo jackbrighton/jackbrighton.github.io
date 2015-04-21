@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+image:
+  feature: sine_waves.png
 ---
 
 <div class="tiles">
