@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Home
+  url: /
+  excerpt: "Writing about public media, journalism, code, archival practice, etc "
+  image: "arches-jack.jpg"
