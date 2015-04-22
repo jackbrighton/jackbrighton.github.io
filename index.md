@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 image:
-  feature: sine_waves.png
+  feature: arches-scene.png
 ---
 
 <div class="tiles">
