@@ -5,7 +5,7 @@ description: a blog thing
 logo: "logo.jpg"
 teaser: "moon.jpg"
 locale:
-url: "http://jackbrighton.github.io/"
+url: "http://jackbrighton.github.io"
 
 # Jekyll configuration
 
