@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 image:
-  feature: sunrise.jpg
+  feature: WILLPhoto030_web.jpg
 ---
 
 <div class="tiles">
