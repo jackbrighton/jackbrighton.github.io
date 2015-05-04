@@ -86,6 +86,6 @@ I think it’s time to recognize that we can best serve the public interest of t
 
 _And if we fail, it shouldn’t be for lack of trying_.
 
-![a pile of card with ideas written on them][https://github.com/jackbrighton/jackbrighton.github.io/images/storytelling-workshop_circle.jpg]
+![a pile of card with ideas written on them][http://jackbrighton.github.io/images/storytelling-workshop_circle.jpg]
 
 At the end of the Detroit storytelling workshop, we were invited to summarize our most resonant takeaway on a single card and throw it on the floor. There was enough conversation by this time to make it clear we had a consensus: We’re in this together, so let’s figure out how that can work.
