@@ -57,7 +57,7 @@ Digital space is the primary growth arena for audiences of the future, including
 
 ## How this could work, Version 1
 
-Let’s admit we don’t have the perfect blueprint right now. What we need is some informed experimentation. We know many people in our communities want to contribute to our mission. Many of these people have deep insight into large and small issues and interests.  Some of them have amazing skills, and some who don't have skills but are motivated to learn. 
+Let’s admit we don’t have the perfect blueprint right now. What we need is some informed experimentation. We know many people in our communities want to contribute to our mission. Many of these people have deep insight into large and small issues and interests.  Some of them have amazing skills, and some don't have skills but are motivated to learn. 
 
 Imagine a team of five or six people. One is the storyteller, one is a producer, one is a web developer, two are researchers, and you need a coach or project manager who could also be a staff member of the station. This team is invited to work in the physical space of the station, and they will have access to certain production resources. The team will determine how best to do the storytelling, on what kind of platform, and in what time frame. 
 
@@ -76,6 +76,9 @@ To these ends, we will cultivate and facilitate an open public media culture tha
 
 For content in digital space, we’ll continue to maintain standards of credibility and trust as well. But the beauty of digital space is that it’s virtually unlimited. We are free to experiment and find new forms, and chances are we’ll develop more diverse voices along with way. Hopefully we’ll develop new audiences as well.
 
+This is what I hope we can tell the people in our communities. Can we agree on these expectations?
+
+
 ## A diverse public media
 
 The communication technologies of the day have always been essential for communities working to understand and solve their problems, and to improve community life. Public broadcasting came along at a time when broadcast technologies were a mature but limited resource. Because broadcasting was limited, only certain people got to be broadcasters. 
@@ -88,4 +91,6 @@ _And if we fail, it shouldn’t be for lack of trying_.
 
 ![a pile of card with ideas written on them](http://jackbrighton.github.io/images/storytelling-workshop_circle.jpg)
 
-At the end of the Detroit storytelling workshop, we were invited to summarize our most resonant takeaway on a single card and throw it on the floor. There was enough conversation by this time to make it clear we had a consensus: We’re in this together, so let’s figure out how that can work.
+At the end of the Detroit storytelling workshop, we were invited to summarize our most resonant takeaway on a single card and throw it on the floor. There was enough conversation by this time to make it clear we had a consensus: the future of public media is about community collaboration. 
+
+We’re in this together, so let’s figure out how that can work.
