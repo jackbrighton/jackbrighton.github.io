@@ -93,4 +93,4 @@ _And if we fail, it shouldn’t be for lack of trying_.
 
 At the end of the Detroit storytelling workshop, we were invited to summarize our most resonant takeaway on a single card and throw it on the floor. There was enough conversation by this time to make it clear we had a consensus: the future of public media is about community collaboration. 
 
-We’re in this together, so let’s figure out how that can work.
+We’re in this together, so let’s figure out all the ways that can work.
