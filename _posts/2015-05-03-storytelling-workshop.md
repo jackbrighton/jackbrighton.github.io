@@ -34,7 +34,7 @@ This is exactly how we should manage the scarce and limited public resource that
 
 This was the focus of the April 27th workshop sponsored by PBS and Detroit Public Television, and facilitated by [Columbia University’s Learn Do Share Center]( http://www.learndoshare.net/). But this wasn’t your normal PBS/local station meetup. I found myself in a room of people from just about every walk of community life: teachers, filmmakers, technologists, public health workers, and artists. About half the attendees were from public TV and radio stations, and the rest were simply people who care about Detroit.
 
-At one point I was at a table with six other people none of whom work for public media in a deep conversation about the public media station of the future. They were so enthusiastic about helping public media serve their community, and about joining forces in a way that could serve our mission. They were there to collaborate with us in creating the public media of the future.
+At one point I was at a table with six other people, none of whom work for public media, in a deep conversation about how public media could extend its impact. They were so enthusiastic about helping public media serve their community, and about joining forces in a way that could serve our mission. They were there to collaborate with us in creating the public media of the future.
 
 
 ## What does a future public media station look like?
