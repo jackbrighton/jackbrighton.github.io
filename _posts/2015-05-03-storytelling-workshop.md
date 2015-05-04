@@ -69,7 +69,7 @@ Storytelling projects like this could also benefit from [new models of public me
 
 Foundations are looking to fund ideas like this. [The Knight Foundation just awarded more than $700,000 to technology projects focused on storytelling, data, and community building](http://www.niemanlab.org/2015/04/knight-foundation-funds-20-new-media-and-technology-projects-through-its-prototype-fund/). Many of these projects involve public media stations and community partnerships. Localore has opened applications for its [_Finding America_ grants for storytelling projects and innovation in public media](http://localore.airmedia.org/). 
 
-I just wrote [a small grant proposal to build a Digital Story Lab](http://jackbrighton.github.io/publicmedia/digital-story-lab/), to explore new forms of digital storytelling with students, faculty, and staff at WILL and the University of Illinois. I think we are just beginning to realize the range of possibilities for digital media and social networks to communicate, explain, reveal, and connect. In this environment, experiments are called for. I hope to expand this project and learn as we roll forward.
+I just wrote [a small grant proposal to build a Digital Story Lab](http://jackbrighton.github.io/publicmedia/digital-story-lab/), to explore new forms of digital storytelling with students, faculty, and staff at WILL and the University of Illinois College of Media. I think we are just beginning to realize the range of possibilities for digital media and social networks to communicate, explain, reveal, and connect. In this environment, experiments are called for. I hope to expand this project and learn as we roll forward, then feed back what we learn into the journalism curriculum. 
 
 
 ## Setting expectations
