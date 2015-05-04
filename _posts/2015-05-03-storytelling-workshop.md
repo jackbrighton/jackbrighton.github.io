@@ -65,7 +65,11 @@ Station support may initially look like training. Staff can be brought in to tea
 
 The above might be way too complicated, or not complicated enough. Maybe there needs to be specific editorial controls, attention to rights clearances, and other forms of due diligence important to the station and the context of the project. Each station could of course develop their own model of how the pieces fit. 
 
-Storytelling projects like this could also benefit from [new models of public media membership being developed by Melody Joy Kramer](http://melodykramer.github.io/2015/05/02/public-media-membership-sprint-one/). Many people love public media, and many of them have skills and perspectives that would make us better. In the public media of the future, surely we can find ways to include them.
+Storytelling projects like this could also benefit from [new models of public media membership being developed by Melody Joy Kramer](http://melodykramer.github.io/2015/05/02/public-media-membership-sprint-one/). Many people love public media, and many of them have skills and perspectives that would make us better. In the public media of the future, surely we can find ways to include them as volunteers, collaborators, and members.
+
+Foundations are looking to fund ideas like this. [The Knight Foundation just awarded more than $700,000 to technology projects focused on storytelling, data, and community building](http://www.niemanlab.org/2015/04/knight-foundation-funds-20-new-media-and-technology-projects-through-its-prototype-fund/). Many of these projects involve public media stations and community partnerships. Localore has opened applications for its [_Finding America_ grants for storytelling projects and innovation in public media](http://localore.airmedia.org/). 
+
+I just wrote [a small grant proposal to build a Digital Story Lab[(http://jackbrighton.github.io/publicmedia/digital-story-lab/), to explore new forms of digital storytelling with students, faculty, and staff at WILL and the University of Illinois. I think we are just beginning to realize the range of possibilities for digital media and social networks to communicate, explain, reveal, and connect. In this environment, experiments are called for. I hope to expand this project and learn as we roll forward.
 
 
 ## Setting expectations
