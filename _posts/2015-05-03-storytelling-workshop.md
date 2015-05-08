@@ -1,22 +1,13 @@
 ---
-layout: article
-title: "Designing the Future of Public Media"
-categories: publicmedia
-image:
-  teaser: storytelling-workshop_leaders.jpg
-  feature: storytelling-workshop-pan.jpg
-
-tags: 
-- public media
-- storytelling
-- journalism
-- innovation
-- technology
+layout:     post
+title:      "Designing the Future of Public Media"
+subtitle:   "A report from Detroit"
+date:       2015-05-03 12:00:00
+author:     "Jack Brighton"
+header-img: "img/storytelling-workshop-pan.jpg"
 ---
 
-
-
-Those of us who work professionally at a public TV or radio station have been grounded in an environment shaped by the prerogatives of broadcasting. We understand ourselves as trustees of an invaluable and limited public resource, namely the airwaves licensed to us by the federal government for the purpose of serving the “[public interest, convenience and necessity](http://govinfo.library.unt.edu/piac/novmtg/pubint.htm).” 
+Those of us who work professionally at a public TV or radio station have been grounded in an environment shaped by the prerogatives of broadcasting. We understand ourselves as trustees of an invaluable and limited public resource, namely the airwaves licensed to us by the federal government for the purpose of serving the '[public interest, convenience and necessity](http://govinfo.library.unt.edu/piac/novmtg/pubint.htm).' 
 
 Public broadcasting in the United States was founded officially with the [Public Broadcasting Act of 1967](http://www.cpb.org/aboutpb/act/), so we’re coming up on our Semicentennial in 2017. But in the longer sweep, use of the electromagnetic spectrum by non-profit broadcasters for community and educational purposes is as old as the first [audion tube ](http://en.wikipedia.org/wiki/Audion). 
 
@@ -93,7 +84,7 @@ I think it’s time to recognize that we can best serve the public interest of t
 
 _And if we fail, it shouldn’t be for lack of trying_.
 
-![a pile of card with ideas written on them](http://jackbrighton.github.io/images/storytelling-workshop_circle.jpg)
+![a pile of card with ideas written on them](/img/storytelling-workshop_circle.jpg)
 
 At the end of the Detroit storytelling workshop, we were invited to summarize our most resonant takeaway on a single card and throw it on the floor. There was enough conversation by this time to make it clear we had a consensus: the future of public media is about community collaboration. 
 
