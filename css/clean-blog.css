@@ -126,6 +126,7 @@ hr.small {
     -ms-transform: translate3d(0, 100%, 0);
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
+    text-shadow: none;
   }
 }
 .intro-header {
@@ -398,4 +399,28 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+
+.inline-btn {
+	text-align:center;
+}
+
+.btn-social {
+	font-size: 12px;
+	font-weight: 400;
+	border: 1px solid #ccc;
+	border-radius: 22px;
+}
+
+.btn-social.twitter:hover {
+	background-color: #55acee;
+	color: #fff;
+}
+.btn-social.facebook:hover {
+	background-color: #6d84b4;
+	color: #fff;
+}
+.btn-social.google-plus:hover {
+	background-color: #d34836;
+	color: #fff;
 }
