@@ -4,7 +4,7 @@ title: adventures in public media
 description: a blog thing
 logo: "logo.jpg"
 teaser: "moon.jpg"
-locale: "en_US"
+locale: 
 url: "http://jackbrighton.github.io"
 
 # Jekyll configuration
