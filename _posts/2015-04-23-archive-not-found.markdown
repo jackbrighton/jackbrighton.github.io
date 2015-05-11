@@ -20,7 +20,7 @@ Our global card catalog has a lot of missing books, and many of them belong to u
 
 For all of its ubiquity in our lives and work, the World Wide Web is barely more than 20 years young. Many of us working in the archival professions have learned a great deal about how Internet technology works, and what it takes to build a website. Increasingly we digitize and post oral histories, film archives, and other audiovisual objects, on our institutional and project-based websites. For our institutions themselves, a credible web presence is no longer optional. 
 
-During an Unconference session at the 2015 CLIR Cataloging Hidden Special Collections and Archive Pre-Symposium, a roomful of archivists and technologists considered the challenges of maintaining a web presence for grant-funded archival projects after the funding runs out. In a lively discussion, it became clear that many of the same issues are faced with every institution, and with every project. 
+During an Unconference session at the [2015 CLIR Cataloging Hidden Special Collections and Archive Pre-Symposium](http://www.clir.org/hiddencollections/2015-symposium-unconference/2015-symposium-unconference), a roomful of archivists and technologists considered the challenges of maintaining a web presence for grant-funded archival projects after the funding runs out. In a lively discussion, it became clear that many of the same issues are faced with every institution, and with every project. 
 
 We are in the business of not only preserving the items and collections in our care, but also preserving access to them in a world where the technologies of access are rapidly changing. 
 
