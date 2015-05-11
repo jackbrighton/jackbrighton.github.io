@@ -120,7 +120,7 @@ Twenty years ago we considered the web a novel thing. We still browsed the physi
 
 Today we have a different kind of stack, and the challenge is not the scarcity of books but the persistence of the shelves. This is not so much a technical problem as an institutional one. How are we aligned to provide for the persistence of digital media objects? How can we make them accessible forever? And if that isn’t the objective of our archival work, why not?
 
-
+***
 *Image Credits:*
 
 ["Tumbeasts servers" by Matthew Inman](http://theoatmeal.com/comics/state_web_summer#tumblr). Licensed under [CC BY 3.0](http://commons.wikimedia.org/wiki/File:Tumbeasts_servers.png#/media/File:Tumbeasts_servers.png) via Wikimedia Commons 
