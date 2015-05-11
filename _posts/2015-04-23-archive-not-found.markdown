@@ -30,7 +30,7 @@ I remember publishing my first web video, and marveling that people all over the
 
 Most of these technologies are now gone. The 360 x 240 video that seemed miraculous then is laughable today. Worse, it’s not really even playable. 
 
-There was a brief moment when QuickTime for the Web ruled the roost, then Windows Media, then Flash, but those moments are also gone. Today’s web video flavor is H.264/mpeg4, but it will soon be replaced by a new flavor.
+There was a brief moment when QuickTime for the Web ruled the roost, then Windows Media, then Flash, but those moments are also gone. Today’s web video flavor is H.264/mpeg4, but this will soon be replaced by a new flavor.
 
 The technology stack, digital media formats, software tools, and design trends of yesterday’s web are gone today, and today’s will be gone tomorrow. The emergence of Responsive Web Design techniques makes most websites designed before 2012 look like refugees from [the Wayback Machine](http://archive.org/web/). To be sure this is an inevitable byproduct of innovation, and each new development is a hallmark of qualitative change for the better.
 
