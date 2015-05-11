@@ -13,7 +13,7 @@ Let’s say you are a cultural heritage institution with a collection of unique 
 
 At this writing there are some [940 million websites on the World Wide Web](http://www.internetlivestats.com/total-number-of-websites/) hosting [4.71 billion indexed web pages](http://www.worldwidewebsize.com/). Each web page has a URL that is unique throughout the world, and always points to a specific web resource. Yet [the average lifespan of a web page is only about 100 days](http://www.newyorker.com/magazine/2015/01/26/cobweb), so many URLs yield the error message 404 Not Found. 
 
-Our global card catalog has a lot of missing books, and many of them belong to us.
+Our global catalog has a lot of missing books, and many of them belong to us.
 
 
 ## Sustainability of Web Presence
