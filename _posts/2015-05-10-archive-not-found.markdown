@@ -43,7 +43,7 @@ So what is required for a sustainable website? Here’s a brief summary of essen
 
 ### IT Infrastructure
 
-Websites run on web servers, which depend on a stack of technologies. Complexity of the stack can vary, but in most cases these days it’ll be a LAMP stack (Linux, Apache, MySQL, PHP) running on a virtual server, or the equivalent Microsoft version.  You can easily contract for this with a vendor, or manage the stack yourself on your own hardware or in the cloud on Amazon Web Services. There are trade-offs in a) cost b) ease of use, and c) level of support. You either need to know a lot about setting up machines and server applications, or pay someone else to do this for you.  Paying for hosting is relatively inexpensive for sites with low traffic, and is the easiest part of maintaining a website. 
+Websites run on web servers, which depend on a stack of technologies. Complexity of the stack can vary, but in most cases these days it’ll be a LAMP stack (Linux, Apache, MySQL, PHP) running on a virtual server, or the equivalent Microsoft version.  You can easily contract for this with a vendor, or manage the stack yourself on your own hardware or in the cloud on Amazon Web Services. There are trade-offs in a) cost b) ease of use, and c) level of support. You either need to know a lot about setting up machines and server applications, or pay someone else to do this for you.  Paying for hosting is relatively inexpensive for sites with low traffic, and is the easiest part of maintaining a website. For higher-traffic sites the cost will scale. 
 
 ### Web Design and Development Expertise
 
