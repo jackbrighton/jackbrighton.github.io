@@ -2,7 +2,7 @@
 layout:     post
 title:      "Archive Not Found"
 subtitle:   "The Challenge of Persistence of Archival Websites"
-date:       2015-04-23 12:00:00
+date:       2015-05-10 12:00:00
 author:     "Jack Brighton"
 header-img: "img/Tumbeasts_servers.png"
 ---
