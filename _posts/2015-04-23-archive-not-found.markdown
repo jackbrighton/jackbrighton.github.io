@@ -98,7 +98,7 @@ I think it’s likely that cloud hosting will continue to grow and be important 
 
 ### Social Media is the new broadcasting
 
-If an archival collection has a website that nobody ever visits, does it really exist? Successful websites today are places where content is published, then extends into social media space.  Impact with audiences on the web now requires active engagement with them on Twitter, Facebook, Instagram, and a growing and changing cast of social media platforms where people learn about, discuss, and share content. But you can’t effectively farm out social media engagement; it has to be done by people who know the content and the communities for whom it’s relevant.
+If an archival collection has a website that nobody ever visits, does it really exist? Successful websites today are places where content is published, then extends into social media space.  Impact with audiences on the web now requires active engagement with them on Twitter, Facebook, Instagram, and a growing and changing cast of social media platforms where people learn about, discuss, and share content. But we can’t effectively farm out social media engagement; it needs to be done by people who know the content and the communities for whom it’s relevant.
 
 If we want to know what our impact is with online audiences, we also need to understand and use analytics. Tools like Google Analytics allow us to see how people are interacting with our website, and guide us to improve it. If funders are interested in the public impact of our work, we now have the means to demonstrate this over time. Effective tracking and use of web and social media analytics requires specific skills we now need in our tool kit. 
 
