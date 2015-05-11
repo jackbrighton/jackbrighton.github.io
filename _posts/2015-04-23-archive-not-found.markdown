@@ -26,7 +26,7 @@ We are in the business of not only preserving the items and collections in our c
 
 ## RealVideo, anyone?
 
-I remember publishing my first online video, and marveling that people all over the world could see it.  I used a desktop program called RealProducer to encode the online video at a size of 360 by 240 pixels and a bitrate of 128 Kilobytes per second. We hosted these videos on a Microsoft IIS server running Active Server Pages, and used Microsoft FrontPage to add and edit the website content.  
+I remember publishing my first web video, and marveling that people all over the world could see it.  I used a desktop program called RealProducer to encode the video at a size of 360 by 240 pixels and a bitrate of 128 Kilobytes per second. We hosted these videos on a Microsoft IIS server running Active Server Pages, and used Microsoft FrontPage to add and edit the website content.  
 
 Most of these technologies are now gone. The 360 x 240 video that seemed miraculous then is laughable today. Worse, it’s not really even playable. 
 
