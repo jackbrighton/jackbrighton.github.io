@@ -8,6 +8,7 @@ header-img: "img/strahov_monastery_prague_129629.jpg"
 ---
 
 > My main theme is the extension of the nervous system in the electric age.
+
 > Marshall McLuhan - Letters of Marshall McLuhan (1987), p. 300
 
 The ability to record and play back moving images and sound has been part of the human technology repertoire for barely more than 100 years. Electricity wasn’t commonplace anywhere until the turn of the twentieth century. The combination of electricity and media technology has brought an acceleration of change in our capacity to see and hear, paradoxically both extending and annihilating distance and time.  It has also allowed us to create new forms of time-based narrative arts, and increasingly intervenes in every economic, political, and social interaction. 
@@ -48,6 +49,7 @@ If we have any remaining arguments about which system or tool is best for managi
 ## Persistence of Vision
 
 > The written symbol extends infinitely, as regards time and space, the range within which one mind can communicate with another.
+
 > Samuel Butler, Life and Habit, London: Trubner & Co, 1978
 
 We live at a time when all previous forms of media are potentially hyperlinked and accessible. We added moving images and sound to the written symbol as means to extend perception, communication, knowledge, and imagination. It may seem lofty to claim that our media archives are to culture what memory is to the human brain. But to the extent that we have not yet embraced caring for these as means of extending our senses, our vision and reach are impaired.
