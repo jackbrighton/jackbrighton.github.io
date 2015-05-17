@@ -202,7 +202,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 55px;
+    font-size: 53px;
     text-shadow: 2px 1px 3px rgba(14, 13, 12, 1);
   }
   .intro-header .post-heading .subheading {
