@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Confessions of an Accidental Archivist"
-subtitle:   "Accelerating Exposure of Audio Visual Collections"
+subtitle:   "The Internet made me do it"
 date:       2015-05-16 12:00:00
 author:     "Jack Brighton"
 header-img: "img/strahov_monastery_prague_129629.jpg"
