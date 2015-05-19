@@ -17,7 +17,7 @@ In the mid-1990s I started building websites. A radio engineer who loved cleanin
 
 I don’t like change either but I figured out a long time ago that I’d rather see it coming than get swamped in its wake.  
 
-Soon enough we had Digital Audio Workstations (DAWs) and software called SAW to edit as many audio tracks as could fit on a JAZ drive. One day I walked into a TV edit bay and saw my first video Non Linear Editor made by a company called Avid.
+Soon enough we had Digital Audio Workstations (DAWs) and software called SAW to edit as many audio tracks as could fit on a JAZ drive. One day I walked into a TV edit bay and saw my first video non-linear editor made by a company called Avid.
 
 From that point forward we left the razor blades in their boxes. 
 
