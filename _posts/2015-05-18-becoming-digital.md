@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "From Public Broadcasting to Public Media"
-subtitle:   "Becoming Digital the Post-Broadcast Age"
+subtitle:   "Becoming Digital in the Post-Broadcast Age"
 date:       2015-05-18 12:00:00
 author:     "Jack Brighton"
 header-img: "img/studer-2-track.jpg"
