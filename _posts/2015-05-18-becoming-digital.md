@@ -13,7 +13,7 @@ The trick was to time everything on the source reels in advance. I spliced leade
 
 ## Then I stopped doing that
 
-In the mid-1990s I started building websites. A radio engineer who loved cleaning Studers told me computers would never be fast enough to record audio. I showed him how I was editing digital audio using CoolEdit on a desktop computer, and he still insisted it wasn’t possible. 
+In the mid-1990s I got into software and started building websites. A radio engineer who loved cleaning Studers told me computers would never be fast enough to record audio. I showed him how I was editing digital audio using CoolEdit on a desktop computer, and he still insisted it wasn’t possible. 
 
 I don’t like change either but I figured out a long time ago that I’d rather see it coming than get swamped in its wake.  
 
