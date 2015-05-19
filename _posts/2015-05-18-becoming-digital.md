@@ -13,7 +13,7 @@ The trick was to time everything on the source reels in advance. I spliced leade
 
 ## Then I stopped doing that
 
-In the mid-1990s I started building websites. A radio engineer who loved cleaning Studers told me computers would never be fast enough to record audio. I showed him editing digital audio using CoolEdit on a desktop computer, and he still insisted it wasn’t possible. 
+In the mid-1990s I started building websites. A radio engineer who loved cleaning Studers told me computers would never be fast enough to record audio. I showed him how I was editing digital audio using CoolEdit on a desktop computer, and he still insisted it wasn’t possible. 
 
 I don’t like change either but I figured out a long time ago that I’d rather see it coming than get swamped in its wake.  
 
@@ -33,6 +33,6 @@ Meanwhile anyone with a smart phone can produce audio and video content and shar
 
 We define ourselves as broadcasters, producing public radio and public television. We win awards, and take justifiable pride in our work. Most importantly, we make a huge difference in our communities. We pursue our mission to inform, educate, and enlighten with integrity, and we enjoy the trust and support of our audiences.
 
-But we see the trends shown in the above graph. We know that audience engagement with new media technologies is shifting faster than any time in the history of media, and that media technologies will continue to rapidly change. In meetings everywhere, we say public broadcasting needs to become effective and relevant in the digital and social media age. There are [pockets](http://www.northcountrypublicradio.org/) of [innovation](http://socialmediadesk.tumblr.com/), [success](http://www.opb.org/), and [awesomeness](http://blog.apps.npr.org/) in a few [places](http://www.kqed.org/), but in large part we haven’t made the transition from public broadcasting to public media. 
+But we see the trends shown in the above graph. We know that audience engagement with new media technologies is shifting faster than any time in the history of media, and that media technologies  continue to rapidly change. In meetings everywhere, we say to oursevles that public broadcasting needs to become effective and relevant in the digital and social media age. There are [pockets](http://www.northcountrypublicradio.org/) of [innovation](http://socialmediadesk.tumblr.com/), [success](http://www.opb.org/), and [awesomeness](http://blog.apps.npr.org/) in a few [places](http://www.kqed.org/), but in large part we haven’t made the transition from public broadcasting to public media. 
 
 How do we do that? Stop thinking of ourselves as broadcasters first. We need to become digital first.
