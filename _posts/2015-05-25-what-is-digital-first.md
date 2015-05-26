@@ -30,7 +30,7 @@ The term "digital" includes all previous forms of media, accessible in digital f
 
 Broadcasting continues to serve the largest audiences for our content. But rapid growth of users on Internet-based platforms foreshadows the day when online audiences will predominate. The digital shift is occurring even more rapidly with younger audiences, who are increasingly less likely to consume broadcast media or subscribe to cable or satellite television. Across all audiences, the adoption of mobile technology is outpacing any previous form of consumer media.
 
-The digital shift is accelerating, and it's time to accept that even broadcasting has become digitalfirst.
+The digital shift is accelerating, and it's time to accept that even broadcasting has become digital first.
 
 
 ## Your biological and technological distinctiveness will be added to our own. [Resistance is futile](http://en.wikipedia.org/wiki/Borg_%28Star_Trek%29).
