@@ -7,7 +7,7 @@ author:     "Jack Brighton"
 header-img: "img/1024px-DARPA_Big_Data.jpg"
 ---
 
-The term “digital first” first gained currency in June 2011 when [the publisher of the Guardian announced plans to become a digital-first organization](http://www.theguardian.com/gnm-press-office/guardian-news-media-digital-first-organisation). A growing list of news organizations followed suit, including the Financial Times and the BBC. I ‘ve argued that for public broadcasting to remain relevant, we need to stop thinking of ourselves as broadcasters and become digital first. 
+The term “digital first” gained currency in June 2011 when [the publisher of the Guardian announced plans to become a digital-first organization](http://www.theguardian.com/gnm-press-office/guardian-news-media-digital-first-organisation). A growing list of news organizations followed suit, including the Financial Times and the BBC. I ‘ve argued that for public broadcasting to remain relevant, we need to stop thinking of ourselves as broadcasters and become digital first. 
 
 ## We’ve got ourselves a real buzzword here. 
 
