@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "What the heck is digital first?"
-subtitle:   "A definition for public media"
+subtitle:   "A proposed definition for public media"
 date:       2015-05-25 12:00:00
 author:     "Jack Brighton"
 header-img: "img/1280px-05_camera_painting_motion_blur_experimental_digital_photography_by_Rick_Doble.jpg"
