@@ -55,7 +55,7 @@ The fundamental barrier in moving from broadcasting first to digital first is ou
 
 Otherwise we’re stuck trying to make digital a part of broadcasting when it should be the other way around. 
 
-## But now digital first isn’t enough
+## But digital first isn’t enough
 
 I started this blog with the intention of exploring ideas important to the future of public media. Digital first is a concept we need to embrace as we transition from a broadcast first mentality. But let me declare for the record: I hope we can then _kill the term digital first once and for all_.
 
