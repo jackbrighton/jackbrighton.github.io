@@ -20,7 +20,7 @@ But what does “digital first” actually mean? Here are a few competing defini
 - [Digital communication is the first thought not the afterthought](http://digitalbydefault.com/2012/09/29/digital-thirst/)
 - [“A mode of being that promotes innovation and excellence”](http://www.technologyreview.com/view/428072/technology-review-goes-digital-first/)
 
-No wonder we’re still confused. In all the hype about digital first, I’m not sure there’s even a good definition of the word digital.
+No wonder we’re still confused. In all the exhortations about the importance of digital first, I’m not sure there’s even a good definition of the word digital.
 
 ## Here’s my definition of digital first:
 
