@@ -24,7 +24,7 @@ No wonder we’re still confused. In all the exhortations about the importance o
 
 ## Here’s my definition of digital first:
 
-_Digital first is how we now produce media_. 
+_How we now produce media_. 
 
 The term "digital" includes all previous forms of media, accessible in digital formats on demand. Our core media technologies are now completely digital. We record, edit, and publish content using digital tools and platforms. We store, manage, and access media using computers, servers, and software. Digital technology is essential in every aspect of news reporting and content production. Even our transmitters are now digital.
 
