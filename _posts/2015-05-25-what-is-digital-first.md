@@ -4,7 +4,7 @@ title:      "What is digital first?"
 subtitle:   "A proposed definition for public media"
 date:       2015-05-25 12:00:00
 author:     "Jack Brighton"
-header-img: "img/1280px-05_camera_painting_motion_blur_experimental_digital_photography_by_Rick_Doble.jpg"
+header-img: "img/internet-map.jpg"
 ---
 
 The term “digital first” first gained currency in June 2011 when [the publisher of the Guardian announced plans to become a digital-first organization](http://www.theguardian.com/gnm-press-office/guardian-news-media-digital-first-organisation). A growing list of news organizations followed suit, including the Financial Times and the BBC. I ‘ve argued that for public broadcasting to remain relevant, we need to stop thinking of ourselves as broadcasters and become digital first. 
