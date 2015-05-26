@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "What the heck is digital first?"
+title:      "What is digital first?"
 subtitle:   "A proposed definition for public media"
 date:       2015-05-25 12:00:00
 author:     "Jack Brighton"
