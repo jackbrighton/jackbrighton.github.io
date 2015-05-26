@@ -45,7 +45,7 @@ Digital first production requires additional skills. Crafting content for the we
 
 ## News reporters might not be great at building mobile apps
 
-It’s natural to fear change on a personal level. Are my skills obsolete? Am I being asked to do new kinds of work I don’t understand? Will I still be valued if I admit what I don’t know? Is broadcasting still considered important? These fears are probably reinforced by recent events in Seattle, where [11 television production staff were laid off as KCTS shifted to what it called a “digital first” content model](http://current.org/2015/04/kcts-in-seattle-switches-to-digital-first-content-approach-cuts-11-employees/). 
+It’s natural to fear change on a personal level. Are my skills obsolete? Am I being asked to do new kinds of work I don’t understand? Will I still be valued if I admit what I don’t know? Is broadcasting still considered important? These fears are probably reinforced by recent events in Seattle, where [eleven television production staff were laid off as KCTS shifted to what it called a “digital first” content model](http://current.org/2015/04/kcts-in-seattle-switches-to-digital-first-content-approach-cuts-11-employees/). 
 
 Digital first doesn’t mean a radio reporter must become an expert photographer, videographer and video editor, web designer, social media expert, analytics guru, database administrator, and app developer. And it doesn't mean people without these "digital skills" aren't important anymore. 
 
