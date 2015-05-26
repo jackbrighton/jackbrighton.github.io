@@ -60,7 +60,7 @@ The fundamental barrier in moving from broadcasting first to digital first is ou
 
 I started this blog with the intention of exploring ideas important to the future of public media. Digital first is a concept we need to embrace now, as we transition from a broadcast first mentality. But let me declare for the record: I hope we can then _kill the term digital first once and for all_.
 
-Public media can adopt a digital first approach to producing and distributing media. We can put the right skills in the right places, adjust our roles and organizational models, and learn to craft content for the full spectrum of digital platforms and channels. We can replace the metaphors we use for our technologies of production and distribution. But it won’t be enough. 
+Public media can adopt a digital first approach to producing and distributing media. We can put digital skills in the right places, adjust our roles and organizational models, and learn to craft content for the full spectrum of digital platforms and channels. We can replace the metaphors we use for our technologies of production and distribution. But it won’t be enough. 
 
 Becoming digital first public media is only the necessary first step in fulfilling our promise to serve the higher aspirations and interests of our communities. The term “digital first” fails to capture the most significant aspect of the emerging digital media system: its capacity to empower people not just to receive and consume, but to participate and create.  
 
