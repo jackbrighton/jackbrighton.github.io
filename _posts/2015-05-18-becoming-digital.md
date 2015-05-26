@@ -36,3 +36,12 @@ We define ourselves as broadcasters, producing public radio and public televisio
 But we see the trends shown in the above graph. We know that audience engagement with new media technologies is shifting faster than any time in the history of media, and that media technologies  continue to rapidly change. In meetings everywhere, we say to ourselves that public broadcasting needs to become effective and relevant in the digital and social media age. There are [pockets](http://www.northcountrypublicradio.org/) of [innovation](http://socialmediadesk.tumblr.com/), [success](http://www.opb.org/), and [awesomeness](http://blog.apps.npr.org/) in a few [places](http://www.kqed.org/), but in large part we haven’t made the transition from public broadcasting to public media. 
 
 How do we do that? Stop thinking of ourselves as broadcasters first. We need to become digital first.
+
+***
+
+### Related Posts:
+
+- [What is digital first? A proposed definition for public media](http://jackbrighton.github.io/2015/05/25/what-is-digital-first/)
+- [Public Media was about innovation from the start](http://jackbrighton.github.io/2015/04/23/public-media-innovation/)
+
+***
