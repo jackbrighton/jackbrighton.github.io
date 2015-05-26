@@ -41,7 +41,7 @@ A digital first production model would start by thinking of content as something
 
 We don’t have to use all platforms and channels for every bit of content, but it makes sense to leverage every possibility for adding value and reaching audiences everywhere we can.
 
-Digital first production requires additional skills. Crafting content for the web, social media, and OTT platforms requires not just digital audio, video, and image editing, but knowing the specific formats, writing styles, and metadata requirements for each platform. Anyone can launch a WordPress blog, but going beyond the basics requires knowledge of good design practices with HTML, CSS, and JavaScript. Digital media production requires servers, networks, storage, user authentication, backups, and security. As digital techologies, platforms, and best practices continue to rapidly evolve, we need to adjust roles as needed and keep learning. 
+Digital first production requires additional skills. Crafting content for the web, social media, and OTT platforms requires not just digital audio, video, and image editing, but knowing the specific formats, writing styles, and metadata requirements for each platform. Anyone can launch a WordPress blog, but going beyond the basics requires knowledge of good design practices with HTML, CSS, and JavaScript. Digital media production requires software, servers, networks, storage, user authentication, backups, and security. As digital techologies, platforms, and best practices continue to rapidly evolve, we need to adjust roles as needed and keep learning. 
 
 ## News reporters might not be great at building mobile apps
 
