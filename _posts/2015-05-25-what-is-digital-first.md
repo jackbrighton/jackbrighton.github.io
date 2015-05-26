@@ -37,7 +37,7 @@ The digital shift is accelerating, and it's time to accept that even broadcastin
 
 To date we are much better at producing content for our long-standing broadcast channels than we are for Internet-based and mobile channels. Yet it’s all digital content, crafted in particular ways. 
 
-A digital first production model would start by thinking of content as something that can be produced in different ways to fit the formats and strengths of multiple media platforms and channels: radio, television, syndication, websites, blogs, podcasts, social media, mobile apps, data presentations, interactives, maps, podcasts, the PMP, OTT devices, print, events, etc. 
+A digital first production model would start by thinking of content as something that can be produced in different ways to fit the formats and strengths of multiple media platforms and channels: radio, television, syndication, websites, blogs, podcasts, social media, mobile apps, data presentations, interactives, maps, podcasts, the [Public Media Platform](http://publicmediaplatform.org/), [OTT devices](http://en.wikipedia.org/wiki/Over-the-top_content), print, events, etc. 
 
 We don’t have to use all platforms and channels for every bit of content, but it makes sense to leverage every possibility for adding value and reaching audiences everywhere we can.
 
