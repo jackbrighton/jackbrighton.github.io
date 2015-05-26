@@ -75,3 +75,5 @@ I think that’s a project worthy of the term “public media.”
 - [Public Media is public space](http://jackbrighton.github.io/2015/04/22/public-space/)
 
 ***
+
+Image by [Luiz Fernando Reis](https://www.flickr.com/photos/7477245@N05/) is is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
