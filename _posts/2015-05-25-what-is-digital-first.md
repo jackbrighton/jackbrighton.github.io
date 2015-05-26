@@ -66,8 +66,6 @@ Becoming digital first public media is only the necessary first step in fulfilli
 
 I think that’s a project worthy of the term “public media.”
 
-More on that soon, with your invited participation.
-
 ***
 
 ### Related Posts:
