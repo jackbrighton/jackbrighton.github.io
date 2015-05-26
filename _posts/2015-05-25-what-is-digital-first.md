@@ -51,10 +51,9 @@ Digital first doesn’t mean a radio reporter must become an expert photographer
 
 But organizational models must allow for increased collaboration among people with a broad range of skills. Too often we enforce departmental silos that inhibit development of a multidisciplinary approach. We need someone producing photos for the website and social media. We need website content that isn’t copy-and-pasted from a radio script. We need someone with a good sense of visual and user-centered design. We need to organize and manage audio, video, images, text, data, and other digital media. We need usable systems, training, and support for a digital first workflow. Most importantly, we need buy-in from leadership that understands a culture of collaboration is essential in the digital media age. 
 
-Otherwise we’re stuck trying to make digital a part of broadcasting when it should be the other way around. 
-
 The fundamental barrier in moving from broadcasting first to digital first is our self-definition. If we think we’re broadcasters, we’ll only focus on broadcasting. If we understand ourselves as digital media professionals who do broadcasting along with many other things, we can begin to see the changes we need to make. 
 
+Otherwise we’re stuck trying to make digital a part of broadcasting when it should be the other way around. 
 
 ## But now digital first isn’t enough
 
