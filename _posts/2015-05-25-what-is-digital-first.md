@@ -4,7 +4,7 @@ title:      "What the heck is digital first?"
 subtitle:   "A definition for public media"
 date:       2015-05-25 12:00:00
 author:     "Jack Brighton"
-header-img: "img/blinkenlights.png"
+header-img: "img/1280px-05_camera_painting_motion_blur_experimental_digital_photography_by_Rick_Doble.jpg"
 ---
 
 The term “digital first” first gained currency in June 2011 when [the publisher of the Guardian announced plans to become a digital-first organization](http://www.theguardian.com/gnm-press-office/guardian-news-media-digital-first-organisation). A growing list of news organizations followed suit, including the Financial Times and the BBC. I ‘ve argued that for public broadcasting to remain relevant, we need to stop thinking of ourselves as broadcasters and become digital first. 
@@ -65,3 +65,7 @@ Public media can adopt a digital first approach to producing and distributing me
 Becoming digital first public media is only the necessary first step in fulfilling our promise to serve the higher aspirations and interests of our communities. The term “digital first” fails to capture the most significant aspect of the emerging digital media system: its capacity to empower people not just to receive and consume, but to participate and create.  
 
 I think that’s a project worthy of the term “public media.”
+
+---
+
+Image credit: "Camera painting" photo -- experimental digital photography by Rick Doble. © Rick Doble / Wikimedia Commons / [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/)
