@@ -11,7 +11,7 @@ The term “digital first” first gained currency in June 2011 when [the publis
 
 ## We’ve got ourselves a real buzzword here. 
 
-But what does “digital first” actually mean? Here are a few competing definitions:
+But what does “digital first” actually mean? Here are a few definitions offered by early proponents:
 
 - [Digital first, print last (or in our case broadcast last)](http://www.inma.org/blogs/integrated-advertising-sales/post.cfm/so-what-soes-digital-first-really-mean)
 - [Producing stories for the web that can then be adapted and delivered via print and other mediums](http://www.epublishing.com/blogs/1-the-epublishing-blog/post/256-the-digital-first-publishing-strategy--it-s-about-time-)
