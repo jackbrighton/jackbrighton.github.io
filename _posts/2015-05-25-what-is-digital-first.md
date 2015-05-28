@@ -72,7 +72,6 @@ I think that’s a project worthy of the term “public media.”
 - [From Public Broadcasting to Public Media: Becoming Digital in the Post-Broadcast Age](http://jackbrighton.github.io/2015/05/18/becoming-digital/)
 - [Designing the Future of Public Media: A report from Detroit](http://jackbrighton.github.io/2015/05/03/storytelling-workshop/)
 - [Public Media was about innovation from the start](http://jackbrighton.github.io/2015/04/23/public-media-innovation/)
-- [Public Media is public space](http://jackbrighton.github.io/2015/04/22/public-space/)
 
 ***
 
