@@ -8,6 +8,8 @@ url: "http://jackbrighton.github.io"
 twitter_username: jackbrighton
 github_username:  jackbrighton
 facebook_username:  jackbrighton
+reading_time:     true
+words_per_minute: 200
 
 # Build settings
 markdown: kramdown
