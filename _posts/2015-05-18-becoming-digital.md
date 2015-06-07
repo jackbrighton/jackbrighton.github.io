@@ -42,6 +42,7 @@ How do we do that? Stop thinking of ourselves as broadcasters first. We need to 
 ### Related Posts:
 
 - [What is digital first? A proposed definition for public media](http://jackbrighton.github.io/2015/05/25/what-is-digital-first/)
+- [The New Media Operating System](http://jackbrighton.github.io/2015/06/01/new-media-os/)
 - [Public Media was about innovation from the start](http://jackbrighton.github.io/2015/04/23/public-media-innovation/)
 
 ***
