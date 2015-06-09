@@ -57,3 +57,9 @@ We live at a time when all previous forms of media are potentially hyperlinked a
 The work still to be done is far from trivial, but my experience has been that it begins by focusing on the data. The technical means of handling data will change, but we can make the data accessible as systems and standards evolve.  Small institutions like Illinois Public Media can’t do everything required for preservation, but we can serve as a node in a larger preservation ecosystem. In terms of preserving an aggregate of potentially all institutional media collections, resources can be allocated at different levels depending on roles and scope. The thing that has brought such rapid change, the Internet, is also a fantastic means of connecting the levels. 
 
 We may have limited resources, but fortunately we have an architecture of collaboration we’re just now beginning to understand. 
+
+***
+
+### Related Posts:
+
+- [Archive Not Found: The Challenge of Persistence of Archival Websites](http://jackbrighton.github.io/2015/05/10/archive-not-found/)
