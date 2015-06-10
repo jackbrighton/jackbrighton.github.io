@@ -120,6 +120,10 @@ Twenty years ago we considered the web a novel thing. We still browsed the physi
 
 Today we have a different kind of stack, and the challenge is not the scarcity of books but the persistence of the shelves. This is not so much a technical problem as an institutional one. How are we aligned to provide for the persistence of digital media objects? How can we make them accessible forever? And if that isn’t the objective of our archival work, why not?
 
+### Related Posts:
+
+- [The Internet made me do it: Confessions of an Accidental Archivist](http://jackbrighton.github.io/2015/05/16/confessions/)
+
 ***
 *Image Credits:*
 
