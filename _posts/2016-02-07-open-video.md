@@ -14,13 +14,13 @@ With more than 40 hours of video uploaded to YouTube every hour, it’s clear th
 
 For those of us working to build a universally accessible knowledge commons, limitations on the role of video are problematic. 
 
-##Video and the Commons Working Group
+## Video and the Commons Working Group
 
 To begin addressing this challenge, a new working group convened in New York to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour began developing a plan for bringing open video to the commons.
 
 The working group was convened by Ben Moskowitz (Mozilla) and Peter Kaufman (Columbia University, Intelligent Television) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
 
-##Licensing for Public Reuse
+## Licensing for Public Reuse
 
 In my view, public sharing of video content without giving up copyrights is now a solved problem. The licensing protocols and tools developed by Creative Commons provide a framework for specifying terms for sharing and reuse of copyrighted works of all types. But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a commitment by producers and organizations to produce video in a way that can be licensed for the commons. 
 
@@ -32,7 +32,7 @@ So we were all astonished during the meeting as The William and Flora Hewlett Fo
 
 In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they would especially like to focus on working with journalists and news organizations to expand the use of CC licenses for news content.
 
-##Video Remixing with Popcorn Editor
+## Video Remixing with Popcorn Editor
 
 It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first Open Video Conference in 2009 many good ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
 
@@ -42,7 +42,7 @@ There are many other tools out there for collaborative video editing, like Zapti
 
 To use a metaphor from the democratization of print, Popcorn Editor isn’t a scriptorium; it’s a moveable type press.
 
-##If We Build It Will People Come?
+## If We Build It Will People Come?
 
 As a multimedia journalist and producer I think carefully about sources and story elements. Who or what is credible and provides information or perspective to the story? I’m talking about people, documents, photographs, audio, and increasingly video.  A good source or story element may be inaccessible given my resources and production timeline.
 
@@ -60,7 +60,7 @@ An experiment this fall by the PBS NewsHour could provide a new model for collab
 
 Other news organizations (and anyone else) would have access to the NewsHour video for use in their own stories and productions. Creative Commons will provide guidance and support (and potentially grants) to producers of the content and those who want to reuse it. Mozilla will support deployment and use of Popcorn Editor.  The Working Group will be pushing on these fronts over the next few months.
 
-Open News
+## Open News
 
 Coverage of presidential elections has been increasingly dominated by large news organizations with outsized resources and privileged access to sources. The news agenda and narrative has largely been defined by a handful of corporate news giants, and public disengagement with political news is a byproduct of this trend. What if anyone could make use of raw materials produced by the news giants to broaden the narrative? What if we gave more people an outlet? What kind of stories would they tell? 
 
@@ -68,7 +68,7 @@ I don’t know if the timing is right. Maybe we’ll all shrug and continue to t
 
 I suspect the most likely pioneers would be among today’s students who are all now digital natives, and journalists in public media and nonprofit news. And I expect that as this unfolds we’ll begin to see some interesting experiments. I’m planning some of those myself.
 
-Your Mission If You Choose to Accept It
+## Your Mission If You Choose to Accept It
 
 “The Society of Professional Journalists is dedicated to the perpetuation of a free press as the cornerstone of our nation and our liberty.” I like that as a general statement.  The SPJ mission statement goes on to say that journalists should “encourage a climate in which journalism can be practiced freely.”
 
