@@ -6,7 +6,7 @@ author:     "Jack Brighton"
 header-img: "img/video-and-the-commons-working-group-1170px.jpg"
 ---
 
-Five centuries ago the moveable type press massively expanded the reach of printed language and the tools of authorship. The printing press didn’t just open access to knowledge. It transformed expectations about what kind of society we could have. The idea that a person could participate in public life became possible only with the spread of literacy and access to the printed record of human knowledge and culture.  
+Five centuries ago the moveable type press massively expanded the reach of printed language and the tools of authorship. The printing press didn’t just open access to knowledge. It transformed expectations about what kind of society we could have. The idea that a person could participate in public life became possible only with the spread of literacy and access to the printed record of human knowledge and culture. 
 
 Today we are living through another historic expansion of access to the consumption and production of human knowledge and culture, enabled by the Internet and digital multimedia. For more than a century the practice of filmmaking was limited to people with specialized skills and technology resources. Today anyone with a smart phone has access to high definition video production and distribution technologies.
 
@@ -16,9 +16,9 @@ For those of us working to build a universally accessible knowledge commons, lim
 
 ## Video and the Commons Working Group
 
-To begin addressing this challenge, a new working group convened in New York to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour began developing a plan for bringing open video to the commons.
+To begin addressing this challenge, a new working group recently met in New York to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour began developing a plan for bringing open video to the commons.
 
-The working group was convened by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
+The Video and the Commons Working Group was convened by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
 
 ## Licensing for Public Reuse
 
