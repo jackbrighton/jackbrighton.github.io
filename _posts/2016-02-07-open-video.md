@@ -10,7 +10,7 @@ Five centuries ago the moveable type press massively expanded the reach of print
 
 Today we are living through another historic expansion of access to the consumption and production of human knowledge and culture, enabled by the Internet and digital multimedia. For more than a century the practice of filmmaking was limited to people with specialized skills and technology resources. Today anyone with a smart phone has access to high definition video production and distribution technologies.
 
-With more than 40 hours of video uploaded to YouTube every hour, it’s clear the moving image has joined print as a primary component of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the public commons. While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
+With more than 40 hours of video uploaded to YouTube every hour, it’s clear the moving image has joined print as a primary component of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the [public commons](https://en.wikipedia.org/wiki/Commons). While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
 
 For those of us working to build a universally accessible knowledge commons, limitations on the role of video are problematic. 
 
@@ -18,13 +18,13 @@ For those of us working to build a universally accessible knowledge commons, lim
 
 To begin addressing this challenge, a new working group convened in New York to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour began developing a plan for bringing open video to the commons.
 
-The working group was convened by Ben Moskowitz (Mozilla) and Peter Kaufman (Columbia University, Intelligent Television) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
+The working group was convened by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
 
 ## Licensing for Public Reuse
 
-In my view, public sharing of video content without giving up copyrights is now a solved problem. The licensing protocols and tools developed by Creative Commons provide a framework for specifying terms for sharing and reuse of copyrighted works of all types. But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a commitment by producers and organizations to produce video in a way that can be licensed for the commons. 
+In my view, public sharing of video content without giving up copyrights is now a solved problem. The [licensing protocols and tools developed by Creative Commons](https://creativecommons.org/licenses/) provide an outstanding framework for specifying terms for sharing and reuse of copyrighted works of all types. But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a commitment by producers and organizations to produce video in a way that can be licensed for the commons. 
 
-This is changing for many cultural heritage institutions at the urging of foundations like Hewlett and Mellon, who increasingly require “open access” to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
+This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require “open access” to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
 
 That value can be unlocked by helping rights holders to feel secure committing to an open content strategy. This will require resources for education, advocacy, and support. 
 
@@ -34,13 +34,13 @@ In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Work
 
 ## Video Remixing with Popcorn Editor
 
-It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first Open Video Conference in 2009 many good ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
+It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first [Open Video Conference](http://openvideoconference.org/) in 2009 many good ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
 
-One of these is a framework developed by Mozilla called Popcorn Editor. A demonstration during the Working Group meeting showed its potential for freeing video editing from the desktop. Popcorn allows easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since all revisions are stored in a version history, and any version can be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible by http. 
+One of these is a framework developed by Mozilla called [Popcorn Editor](https://github.com/mozilla/popcorn-editor). A demonstration during the Working Group meeting showed its potential for freeing video editing from the desktop. Popcorn allows easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since all revisions are stored in a version history, and any version can be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible by http. 
 
-There are many other tools out there for collaborative video editing, like Zaption, WeVideo, Kaltura, and of course YouTube Editor, but each of theses has significant technical dependencies and licensing limitations.  Popcorn Editor is an open source project that can be deployed by anyone with basic coding stills, and used freely by anyone with ideas.  
+There are many other tools out there for collaborative video editing, like [Zaption](https://www.zaption.com/), [WeVideo](https://www.wevideo.com/), [Kaltura](http://corp.kaltura.com/), and of course [YouTube Editor](https://www.youtube.com/editor), but each of these has significant technical dependencies and licensing limitations. Popcorn Editor is an open source project that can be deployed by anyone with basic coding stills, and used freely by anyone with ideas.  
 
-To use a metaphor from the democratization of print, Popcorn Editor isn’t a scriptorium; it’s a moveable type press.
+Popcorn Editor isn’t a [scriptorium](https://en.wikipedia.org/wiki/Scriptorium); it’s a moveable type press.
 
 ## If We Build It Will People Come?
 
@@ -52,7 +52,7 @@ But let’s say we have access to a vast store of video content licensed for reu
 
 Will we actually use it?  
 
-I expect Popcorn Editor or some iteration of it will gain critical mass only when the timing and formula is right.  The current version evolved from the failure of Popcorn.js, which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation.  
+I expect Popcorn Editor or some iteration of it will gain critical mass only when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation.  
 
 But more importantly, we need to make more high-quality video content available for reuse. We need to nourish a culture of open production and collaboration around digital storytelling, including video. We need to educate producers, news organizations, and public media about how to make content sharable via Creative Commons licensing without giving up their copyrights and potential commercial licensing revenue.  Without open video content, there’s little use for an open video editor. 
 
@@ -70,7 +70,7 @@ I suspect the most likely pioneers would be among today’s students who are all
 
 ## Your Mission If You Choose to Accept It
 
-“The Society of Professional Journalists is dedicated to the perpetuation of a free press as the cornerstone of our nation and our liberty.” I like that as a general statement.  The SPJ mission statement goes on to say that journalists should “encourage a climate in which journalism can be practiced freely.”
+“The Society of Professional Journalists is dedicated to the perpetuation of a free press as the cornerstone of our nation and our liberty.” I like that as a general statement.  The [SPJ mission statement](http://www.spj.org/mission.asp) adds that journalists should “encourage a climate in which journalism can be practiced freely.”
 
 The free press could only become free when it was possible for anyone to access the tools of print. Five centuries after the moveable type press, the Internet enables anyone to access the tools of multimedia. I think we should encourage a climate where multimedia journalism can be practiced freely.
 
