@@ -16,7 +16,7 @@ For those of us working to build a universally accessible knowledge commons, lim
 
 ## Video and the Commons Working Group
 
-To begin addressing this challenge, a working group has been formed to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour began developing a plan for bringing open video to the commons.
+To begin addressing this challenge, a working group has been formed to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour have begun developing a plan for bringing open video to the commons.
 
 The Video and the Commons Working Group was convened for an initial meeting in New York by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class object on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
 
