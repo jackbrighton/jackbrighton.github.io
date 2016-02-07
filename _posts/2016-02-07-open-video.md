@@ -30,6 +30,8 @@ That value can be unlocked by helping rights holders to feel secure committing t
 
 So we were all astonished during the meeting as The William and Flora Hewlett Foundation announced an unrestricted multi-year grant of $10 million to Creative Commons to strengthen the knowledge commons movement. The grant will enable Creative Commons to more deeply engage with content creators, rights holders, developers, scholars, and a growing community of users and collaborators to build sustainable models for the content commons.
 
+$10 million is three times the current annual budget of the Creative Commons organization.
+
 In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they would especially like to focus on working with journalists and news organizations to expand the use of CC licenses for news content.
 
 ## Video Remixing with Popcorn Editor
