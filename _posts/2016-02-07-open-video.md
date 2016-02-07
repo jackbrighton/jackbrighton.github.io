@@ -74,4 +74,4 @@ I suspect the most likely pioneers would be among today’s students who are all
 
 The free press could only become free when it was possible for anyone to access the tools of print. Five centuries after the moveable type press, the Internet enables anyone to access the tools of multimedia. I think we should encourage a climate where multimedia journalism can be practiced freely.
 
-And this is where our adventures in public media could get a lot more interesting.
+With that our adventures in public media could get a lot more interesting.
