@@ -22,7 +22,7 @@ The Video and the Commons Working Group was convened for an initial meeting in N
 
 ## Licensing for Public Reuse
 
-In my view, public sharing of video content without giving up copyrights is now a solved problem. The [licensing protocols and tools developed by Creative Commons](https://creativecommons.org/licenses/) provide an outstanding framework for specifying terms for sharing and reuse of copyrighted works of all types. But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a commitment by producers and organizations to produce video in a way that can be licensed for the commons. 
+The [licensing protocols and tools developed by Creative Commons](https://creativecommons.org/licenses/) provide a comprehensive and legally defensible framework for specifying terms for reuse of copyrighted works of all types. Public sharing of content without giving up copyrights is now a solved problem.  But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a **commitment** by producers and organizations to produce video in a way that can be licensed for the commons. 
 
 This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require “open access” to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
 
@@ -44,7 +44,7 @@ There are many other tools out there for collaborative video editing, like [Zapt
 
 Popcorn Editor isn’t a [scriptorium](https://en.wikipedia.org/wiki/Scriptorium); it’s a moveable type press.
 
-## If We Build It Will People Come?
+## If We Build It Will They Come?
 
 As a multimedia journalist and producer I think carefully about sources and story elements. Who or what is credible and provides information or perspective to the story? I’m talking about people, documents, photographs, audio, and increasingly video.  A good source or story element may be inaccessible given my resources and production timeline.
 
@@ -52,7 +52,7 @@ If I have a tool like Popcorn Editor, I could use it to assemble elements for my
 
 But let’s say we have access to a vast store of video content licensed for reuse under Creative Commons. We have an open source browser-based video editor anyone can use to create stories, news, art, documentaries, and who knows what other forms of media from openly licensed elements. 
 
-Will we actually use it?  
+Will people actually use it?  
 
 I expect Popcorn Editor or some iteration of it will gain critical mass only when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation.  
 
