@@ -52,7 +52,7 @@ If I have a tool like Popcorn Editor, I could use it to assemble elements for my
 
 But let’s say we have access to a vast store of video content licensed for reuse under Creative Commons. We have an open source browser-based video editor anyone can use to create stories, news, art, documentaries, and who knows what other forms of media from openly licensed elements. 
 
-Will people actually use it?  
+**Will people actually use it?**
 
 I expect Popcorn Editor or some iteration of it will gain critical mass only when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation.  
 
