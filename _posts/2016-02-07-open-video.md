@@ -34,7 +34,7 @@ $10 million is three times the current annual budget of the Creative Commons org
 
 In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they would especially like to focus on working with journalists and news organizations to expand the use of CC licenses for news content.
 
-## Video Remixing with Popcorn Editor
+## Video Remixing
 
 It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first [Open Video Conference](http://openvideoconference.org/) in 2009 many good ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
 
