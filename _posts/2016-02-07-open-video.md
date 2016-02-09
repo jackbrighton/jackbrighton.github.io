@@ -16,9 +16,9 @@ For those of us working to build a universally accessible knowledge commons, lim
 
 ## Video and the Commons Working Group
 
-To begin addressing this challenge, a working group has been formed to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour have begun developing a plan for bringing open video to the commons.
+To begin addressing this challenge, a [Video and the Commons working group](http://benrito.github.io/video-commons2016/) has been formed to consider new models of open video licensing and peer production.  Participants from the Wikimedia Foundation, Creative Commons, the Internet Archive, New America Foundation, the MacArthur Foundation, the Netherlands Institute for Sound and Vision, the American Archive of Public Broadcasting, the Institute for Nonprofit News, the City University of New York, and the PBS NewsHour have begun developing a plan for bringing open video to the commons.
 
-The Video and the Commons Working Group was convened for an initial meeting in New York by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class citizen on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
+The working group was convened for an initial meeting in New York by Ben Moskowitz ([Mozilla](https://www.mozilla.org/en-US/foundation/)) and Peter Kaufman ([Columbia University](http://ctl.columbia.edu/), [Intelligent Television](http://intelligenttelevision.com/)) with a mission to make video a first-class citizen on the Internet, like text, images, data, and sound. This will require two key things: a commitment to licensing that facilitates public sharing, and new tools for easy access and reuse of video. 
 
 ## Licensing for Public Reuse
 
@@ -28,13 +28,11 @@ This is changing for many cultural heritage institutions at the urging of founda
 
 That value can be unlocked by helping rights holders to feel secure committing to an open content strategy. This will require resources for education, advocacy, and support. 
 
-So we were all elated as Creative Commons announced receipt of an unrestricted multi-year grant of $10 million from The William and Flora Hewlett Foundation announced to strengthen the knowledge commons movement. The grant will enable Creative Commons to more deeply engage with content creators, rights holders, developers, scholars, and a growing community of users and collaborators to build sustainable models for the content commons.
+So we were all elated as Creative Commons announced receipt of an [unrestricted multi-year grant of $10 million from The William and Flora Hewlett Foundation](https://blog.creativecommons.org/2016/01/19/creative-commons-awarded-hewlett/) to strengthen the knowledge commons movement. The grant will enable Creative Commons to more deeply engage with content creators, rights holders, developers, scholars, and a growing community of users and collaborators to build sustainable models for the content commons.
 
-$10 million is three times the current annual budget of the Creative Commons organization.
+In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they are especially interested in working with journalists and news organizations to expand the use of CC licenses for news content.
 
-In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they would especially like to focus on working with journalists and news organizations to expand the use of CC licenses for news content.
-
-That’s when the participants from PBS NewsHour stepped up to the plate.
+That’s when the working group participants from PBS NewsHour stepped up to the plate.
 
 ## Open News
 
