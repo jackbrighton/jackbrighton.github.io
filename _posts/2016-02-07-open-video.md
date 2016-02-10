@@ -64,7 +64,7 @@ But let’s say we have access to a vast store of video content licensed for reu
 
 **Will people actually use it?**
 
-I expect Popcorn Editor or some iteration of it will gain critical mass when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation. Members of the working group include seriously talented developers from Mozilla and the Wilimedia Foundation, and that work is happening now.
+I expect Popcorn Editor or some iteration of it will gain critical mass when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation. Members of the working group include seriously talented developers from Mozilla and the Wikimedia Foundation, and that work is happening now.
 
 Coverage of presidential elections has been increasingly dominated by large news organizations with outsized resources and privileged access to sources. The news agenda and narrative has largely been defined by a handful of corporate news giants, and public disengagement with political news is a byproduct of this trend. What if anyone could make use of raw materials produced by the news giants to broaden the narrative? What if we gave more people an outlet? What kind of stories would they tell? 
 
