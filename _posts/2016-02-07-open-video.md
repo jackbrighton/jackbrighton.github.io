@@ -32,13 +32,13 @@ So we were all elated as Creative Commons announced receipt of an [unrestricted 
 
 In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they are especially interested in working with journalists and news organizations to expand the use of CC licenses for news content.
 
-That’s when the working group participants from PBS NewsHour stepped up to the plate.
+That’s when working group participants from PBS NewsHour raised a very interesting possibility.
 
 ## Open News
 
-Members of the NewsHour staff proposed to publish hundreds of hours of video from their 2016 election coverage under a Creative Commons license allowing for non-commercial reuse. This would include gavel-to-gavel coverage of the Republican and Democratic national conventions, interviews with candidates, incumbents, party officials, and analysts, along with B-roll footage. 
+What if the NewsHour were to publish hundreds of hours of video from their 2016 election coverage under a Creative Commons license allowing for non-commercial reuse? This might include gavel-to-gavel coverage of the Republican and Democratic national conventions, interviews with candidates, incumbents, party officials, and analysts, along with B-roll footage. 
 
-Other news organizations (and anyone else) would have access to the NewsHour video for use in their own stories and productions. Creative Commons will provide guidance and support (and potentially grants) to producers of the content and those who want to reuse it. 
+Other news organizations (and anyone else) would have access to the NewsHour video for use in their own stories and productions. Creative Commons could provide guidance and support (and potentially grants) to producers of the content and those who want to reuse it. 
 
 If we want to engage more people in collaborating on knowledge and culture using multimedia, the most important thing we can do is to make more high-quality multimedia content available for reuse. We need to nourish a culture of open production and collaboration around digital storytelling, including video. We need to educate producers, news organizations, and public media about how to make content sharable via Creative Commons licensing without giving up their copyrights and potential commercial licensing revenue. 
 
