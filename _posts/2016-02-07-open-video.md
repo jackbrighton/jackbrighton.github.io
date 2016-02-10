@@ -8,11 +8,11 @@ header-img: "img/video-and-the-commons-working-group-1170px.jpg"
 
 Five centuries ago the moveable type press massively expanded the reach of printed language and the tools of authorship. The printing press didn’t just open access to knowledge. It transformed expectations about what kind of society we could have. The idea that a person could participate in public life became possible only with the spread of literacy and access to the printed record of human knowledge and culture. 
 
-Today we are living through another historic expansion of access to the consumption and production of human knowledge and culture, enabled by the Internet and digital multimedia. For more than a century the practice of filmmaking was limited to people with specialized skills and technology resources. Today anyone with a smart phone has access to high definition video production and distribution technologies.
+Today we are living through another historic expansion of access to the consumption and authorship of human knowledge and culture, enabled by the Internet and digital multimedia. For more than a century the practice of filmmaking was limited to people with specialized skills and technology resources. Today anyone with a smart phone has access to high definition video production and distribution technologies.
 
-With more than 40 hours of video uploaded to YouTube every hour, it’s clear the moving image has joined print as a primary element of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the [public commons](https://en.wikipedia.org/wiki/Commons). While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
+With more than 40 hours of video uploaded to YouTube every hour, it’s clear the moving image has joined print as a primary element of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the commons. While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
 
-For those of us working to build a universally accessible knowledge commons, limitations on the role of video are problematic. 
+For those of us working to build a universally accessible [knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons), limitations on the role of video are problematic. 
 
 ## Video and the Commons Working Group
 
@@ -24,7 +24,7 @@ The working group was convened for an initial meeting in New York by Ben Moskowi
 
 The [licensing protocols and tools developed by Creative Commons](https://creativecommons.org/licenses/) provide a comprehensive and legally defensible framework for specifying terms for reuse of copyrighted works of all types. Public sharing of content without giving up copyrights is now a solved problem.  But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a **commitment** by producers and organizations to produce video in a way that can be licensed for the commons. 
 
-This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require “open access” to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
+This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require open access to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
 
 That value can be unlocked by helping rights holders to feel secure committing to an open content strategy. This will require resources for education, advocacy, and support. 
 
@@ -46,9 +46,9 @@ Next we need better creative tools that facilitate and broaden participation in 
 
 ## Video Remix
 
-It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first [Open Video Conference](http://openvideoconference.org/) in 2009 many good ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
+It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first [Open Video Conference](http://openvideoconference.org/) in 2009 some great ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
 
-One of these is a framework developed by Mozilla called [Popcorn Editor](https://github.com/mozilla/popcorn-editor). Popcorn enables easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since all revisions are stored in a version history, and any version can be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible by http. 
+One of these is a framework developed by Mozilla called [Popcorn Editor](https://github.com/mozilla/popcorn-editor). Popcorn enables easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since each revision is stored in a version history, and can easily be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible by http. 
 
 There exist many other tools for collaborative video editing, like [Zaption](https://www.zaption.com/), [WeVideo](https://www.wevideo.com/), [Kaltura](http://corp.kaltura.com/), and of course [YouTube Editor](https://www.youtube.com/editor), but each of these has significant technical dependencies and licensing limitations. Popcorn Editor is an open source project that can be deployed by anyone with basic coding stills, and used freely by anyone with ideas.  
 
@@ -56,15 +56,15 @@ Popcorn Editor isn’t a [scriptorium](https://en.wikipedia.org/wiki/Scriptorium
 
 ## If We Build It Will They Come?
 
-As a multimedia journalist and producer I think carefully about sources and story elements. Who or what is credible and provides information or perspective to the story? I’m talking about people, documents, photographs, audio, and increasingly video.  A good source or story element may be inaccessible given my resources and production timeline.
+As a multimedia journalist and producer I think carefully about sources and story elements. Who or what is credible and provides information or perspective to the story? I’m talking about people, documents, photographs, audio, and increasingly video.  A good source or story element may be inaccessible given available resources and the production timeline.
 
-If I have a tool like Popcorn Editor, I could use it to assemble elements for my story drawing from open licensed video resources across the web. I might invite others to participate in my production via the web. My deployment of Popcorn Editor on a website might itself become a new kind of collaborative storytelling platform. 
+With a tool like Popcorn Editor, I could quickly assemble video elements from open licensed video resources across the web. I might invite others to participate in a given production via the web. A deployment of Popcorn Editor on a website might itself become a new kind of collaborative storytelling platform. 
 
 But let’s say we have access to a vast store of video content licensed for reuse under Creative Commons. We have an open source browser-based video editor anyone can use to create stories, news, art, documentaries, and who knows what other forms of media from openly licensed elements. 
 
 **Will people actually use it?**
 
-I expect Popcorn Editor or some iteration of it will gain critical mass when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation.  
+I expect Popcorn Editor or some iteration of it will gain critical mass when the timing and formula is right.  The current version evolved from the failure of [Popcorn.js](http://popcornjs.org/), which came too early in the adoption of HTML5. And at this writing the Editor needs further development and better documentation. Members of the working group include seriously talented developers from Mozilla and the Wilimedia Foundation, and that work is happening now.
 
 Coverage of presidential elections has been increasingly dominated by large news organizations with outsized resources and privileged access to sources. The news agenda and narrative has largely been defined by a handful of corporate news giants, and public disengagement with political news is a byproduct of this trend. What if anyone could make use of raw materials produced by the news giants to broaden the narrative? What if we gave more people an outlet? What kind of stories would they tell? 
 
