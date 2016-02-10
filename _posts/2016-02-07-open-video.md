@@ -70,7 +70,7 @@ Coverage of presidential elections has been increasingly dominated by large news
 
 I don’t know if the timing is right. Maybe we’ll all shrug and continue to turn on (or off) Fox News, CNN, MSNBC, PBS, and Comedy Central. We probably need some pioneers to show how this could work. 
 
-I suspect the most likely pioneers would be among today’s students who are all now digital natives, and journalists in public media and nonprofit news. And I expect that as this unfolds we’ll begin to see some interesting experiments. I’m planning some of those myself.
+I suspect the most likely pioneers will be among today’s students who are all now digital natives, and journalists in public media and nonprofit news. And I expect that as this unfolds we’ll begin to see some interesting experiments. I’m planning some of those myself.
 
 ## Your Mission If You Choose to Accept It
 
