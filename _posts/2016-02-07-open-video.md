@@ -24,7 +24,7 @@ The working group was convened for an initial meeting in New York by Ben Moskowi
 
 The [licensing protocols and tools developed by Creative Commons](https://creativecommons.org/licenses/) provide a comprehensive and legally defensible framework for specifying terms for reuse of copyrighted works of all types. Public sharing of content without giving up copyrights is now a solved problem.  But the economics of video production and the complex of rights associated with its elements often work against putting it out for public reuse.  What has been lacking is a **commitment** by producers and organizations to produce video in a way that can be licensed for the commons. 
 
-This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require open access to the media content from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
+This is changing for many cultural heritage institutions at the urging of foundations like [Hewlett](http://www.hewlett.org/) and [Mellon](https://mellon.org/), who increasingly require open access to the media content generated from the projects they fund. Especially in the case of archival media, clearing rights can be challenging and expensive. These funders believe the costs associated with open content are more than recouped by the social value in making the content free to reuse.
 
 That value can be unlocked by helping rights holders to feel secure committing to an open content strategy. This will require resources for education, advocacy, and support. 
 
@@ -32,7 +32,7 @@ So we were all elated as Creative Commons announced receipt of an [unrestricted 
 
 In announcing the Hewlett grant, Creative Commons CEO Ryan Merkley told the Working Group they are especially interested in working with journalists and news organizations to expand the use of CC licenses for news content.
 
-That’s when working group participants from PBS NewsHour raised a very interesting possibility.
+That’s when working group participants from the PBS NewsHour raised a very interesting possibility.
 
 ## Open News
 
@@ -48,7 +48,7 @@ Next we need better creative tools that facilitate and broaden participation in 
 
 It’s now trivially easy to copy, paste, edit, save, annotate, and share text, images, raw data, and even sound using free desktop tools, and even within a web browser. But until recently, in-browser editing and annotation of digital video seemed farfetched. At the first [Open Video Conference](http://openvideoconference.org/) in 2009 some great ideas were floated and then sank under the weigh of proprietary video formats and browsers that didn’t comply with W3C standards. But in the last few years, the adoption of HTML5 and the maturation of certain JavaScript libraries have enabled development of some amazing news tools for online video. 
 
-One of these is a framework developed by Mozilla called [Popcorn Editor](https://github.com/mozilla/popcorn-editor). Popcorn enables easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since each revision is stored in a version history, and can easily be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible by http. 
+One of these is a framework developed by Mozilla called [Popcorn Editor](https://github.com/mozilla/popcorn-editor). Popcorn enables easy browser-based remixing of video from multiple sources: adding clips, resequencing, annotating, deleting, and exporting a final version. But actually there is no actual final version since each revision is stored in a version history, and can easily be restored. Video clips can be stored on Wikimedia Commons, the Internet Archive, Amazon S3, or any other location accessible via http. 
 
 There exist many other tools for collaborative video editing, like [Zaption](https://www.zaption.com/), [WeVideo](https://www.wevideo.com/), [Kaltura](http://corp.kaltura.com/), and of course [YouTube Editor](https://www.youtube.com/editor), but each of these has significant technical dependencies and licensing limitations. Popcorn Editor is an open source project that can be deployed by anyone with basic coding stills, and used freely by anyone with ideas.  
 
@@ -70,7 +70,7 @@ Coverage of presidential elections has been increasingly dominated by large news
 
 I don’t know if the timing is right. Maybe we’ll all shrug and continue to turn on (or off) Fox News, CNN, MSNBC, PBS, and Comedy Central. We probably need some pioneers to show how this could work. 
 
-I suspect the most likely pioneers will be among today’s students who are all now digital natives, and journalists in public media and nonprofit news. And I expect that as this unfolds we’ll begin to see some interesting experiments. I’m planning some of those myself.
+The most likely pioneers might be among today’s students who are all now digital natives, and journalists in public media and nonprofit news. And I expect that as this unfolds we’ll begin to see some interesting experiments. I’m planning some of those myself.
 
 ## Your Mission If You Choose to Accept It
 
