@@ -10,7 +10,7 @@ Five centuries ago the moveable type press massively expanded the reach of print
 
 Today we are living through another historic expansion of access to the consumption and authorship of human knowledge and culture, enabled by the Internet and digital multimedia. For more than a century the practice of filmmaking was limited to people with specialized skills and technology resources. Today anyone with a smart phone has access to high definition video production and distribution technologies.
 
-With more than 400 hours of video uploaded to YouTube every minute, it’s clear the moving image has joined print as a primary element of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the commons. While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
+With more than [400 hours of video uploaded to YouTube every minute](http://www.statista.com/statistics/259477/hours-of-video-uploaded-to-youtube-every-minute/), it’s clear the moving image has joined print as a primary element of our daily communication.  Video is now a part of human language. But the norms, technologies, and thicket of rights around video still limit its role in the commons. While text, images, audio, and data have become easy to access, manipulate, and remix, the reuse of video remains constrained. 
 
 For those of us working to build a universally accessible [knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons), limitations on the role of video are problematic. 
 
