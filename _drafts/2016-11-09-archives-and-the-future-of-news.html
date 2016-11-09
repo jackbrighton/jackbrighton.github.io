@@ -1,0 +1,80 @@
+---
+layout:     post
+title:      "Archives and the Future of News"
+subtitle:   
+date:       2016-11-09 12:00:00
+author:     "Jack Brighton"
+header-img: "img/strahov_monastery_prague_129629.jpg"
+---
+
+<p><em>"Of all our national assets, Archives are the most precious; they are the gift of one generation to another and the extent of our care of them marks the extent of our civilization."
+- Arthur G. Doughty, Dominion Archivist, 1904-1935</em></p>
+
+<p>At the dawn of the web I was producing a radio show at WILL, the public broadcasting station at the University of Illinois. We were creating about 40 hours of news and other local programming every week, and at some point it occurred to me that the Internet could be a great way to extend its impact. The General Manager mistook my enthusiasm for actual knowledge, and I soon found myself managing the station website.</p>
+<p>Like everyone coding websites in the mid 1990s I learned by doing. I started building websites then and never stopped.</p>
+
+<img class="alignright src="img//realprod.gif" alt="RealProducer user interface" width="500" height="386" />
+
+<p>By the late 1990s it became possible to stream audio and video. Internet bandwidth was extremely limited at the time, as most of our audience was still on dial-up. So I downloaded RealProducer software and began encoding RealAudio files at 16 Kbps, and RealVideo files at 128K with an aspect ratio of 320px by 240px. Posting these on the web for anyone in the world to access them on demand seemed like a miracle.</p>
+
+<h2>Then Stuff Happened</h2>
+
+<p>My first few WILL websites are no longer online, although samples are represented in the Internet Archive’s  <a href="https://archive.org/web/">Wayback Machine</a>. WILL’s RealMedia files no longer play at all because the server died and today nobody downloads RealPlayer. And by today's standards they would sound and look like crap anyway.</p>
+
+<p>Media formats on the web have changed faster than any previous form of media. Real, QuickTime, Window Media, all <a href="https://plus.google.com/+GoogleAds/posts/2PmwKinJ7nj">gone in a Flash</a>. At some point it dawned on me that unless I saved the original media items from which the web versions were encoded, all the media we published online would soon become obsolete. So I began saving the source files, and I started a database of everything I saved.</p>
+
+<p>I didn’t know it at the time, but that’s when <a href="https://medium.com/@jackbrighton/confessions-of-an-accidental-archivist-aaa893e3d1c3#.qgz5edpz1">I became an archivist</a>.</p>
+
+<h2>Archival Practice</h2>
+
+<p>The World Wide Web is the most powerful platform for communication, media, and knowledge ever devised. The ability to link one item to another allows us to organize and present endless bodies of work for exploration by anyone with a networked device. But like another kind of web, the threads of content we weave on our websites are fragile and ephemeral. Technologies will change, servers will go dark, and files will go missing.</p>
+<p>The Library of Congress has on display an original <a href="http://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html">Gutenberg bible</a> printed in 1455. As journalists we aren’t writing bibles, but the stories we create represent the <a href="https://en.wikipedia.org/wiki/Phil_Graham#.22First_rough_draft_of_history.22">first rough draft of history</a>. We have film from 100 years ago and can still view it.</p>
+
+<img src="img/Gutenberg_Bible_on_display_at_the_Library_of_Congress_web.jpg" alt="Gutenberg Bible in display case at the Library of Congress" width="800" height="456" />
+
+<p>It turns out that many people love books and film, and there is now a large body of knowledge and practice around preserving them as physical objects. Many books and films have recently been digitized, and archival practices have been extended into the digital realm.</p>
+
+<p>Archivists hold dear certain core principles, such as “always preserve the original materials if you can,” and “if you don’t know what you have, you don’t really have it.” With digital media this is really hard, especially if you have thousands of digital files.</p>
+
+<p>Which was exactly my problem at WILL. Fortunately by this time I had become a true nerd. I started reading up on digital preservation and metadata standards, and connected with communities like the <a href="http://www.amianet.org/">Association of Moving Image Archivists</a>. I became involved in the <a href="http://pbcore.org/">PBCore metadata project</a> and the <a href="http://americanarchive.org/">American Archive</a>. I took what I learned about archival practice and applied it to the websites I was building. I want to share with you one of the most important things I learned from this work.</p>
+
+<h2>A Website is Not an Archive</h2>
+<p>The web has become the primary publishing point for nonprofit news. If your site is more than a couple of years old, you may have hundreds or even thousands of stories on it. The last website I built at WILL has more than 35 thousand posts.</p>
+
+<p>That website will probably not last for more that a few years, and neither will yours. In their present form on our existing websites, all of our stories and posts are almost certainly doomed.</p>
+
+<p>We can of course migrate the stories, media, and data to a new platform. WordPress and Largo make that relatively easy, and the sites hosted by INN are in good hands. But a website is only the visible tip of the content iceberg. The photos we publish online are resized and compressed. The web audio format today is MP3 or AAC. The web video format is mostly H.264/MP4. But in a few short years <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">today’s web media formats</a> are going be replaced by the next generation of formats. For accessibility on the next generation of devices we will have to re-encode our online media, ideally from the highest quality source files.</p>
+
+<figure><img class="wp-image-118144 size-full" src="img/H264-H265-comparison.jpg" alt="comparison between H264 and H265 video" width="700" height="281" /><figcaption>Compared to today's AVC/H.264, the new <a href="https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding">HEVC/H.265</a> maintains video quality while cutting file size and bit rate almost in half - very important in a world of billions of smart phones.</figcaption>
+</figure>
+
+<p>It gets worse: If you’re embedding content hosted by third-party services like SoundCloud, YouTube, or Vimeo, there is no guarantee your media will still be online in the future. Or that the descriptive metadata you uploaded with the media will still be available. The third-party service may go out of business, get acquired by another company, get hit by a rights dispute, change their terms of service, or just delete your content for <a href="https://www.youtube.com/static?template=terms">for whatever reason</a>. In the short history of the web, this has happened many times. (Anyone have a Geocities website? <a href="https://en.wikipedia.org/wiki/Yahoo!_GeoCities">No you don’t</a>!)</p>
+
+<h2>What To Do About It</h2>
+
+<p>Let’s say you publish a story on your website, and you want to make sure it can be preserved no matter what happens to your website. The solution to this is simple but really hard:</p>
+
+<ul>
+<li>Save the ingredients in their most raw and unprocessed form. Save the copy in plain-text format. Keep the original photographs in their highest-resolution form. With audio and video, save the original files or tapes. Any captions, credits, tape logs, shot lists, scripts, rights clearances, transcripts, and graphic elements should be saved as well. Find a way to securely store all this content.</li>
+
+<li>Record enough information (i.e. metadata) about everything to know what it is and where to find it. This could be as simple as a spreadsheet or a database, depending on the scale of the content and who needs access. You could use an open source asset management system like <a href="http://www.resourcespace.org/">ResourceSpace</a>, or a system any number of vendors would be happy to sell you.</li>
+</ul>
+
+<p>Of course we should keep the story online as long as possible, ideally at the same url. This becomes more difficult with every website redesign and content migration. Over time, every so-called permalink will almost certainly succumb to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a>.</p>
+
+<p>"If you want to save something online, you have to decide to save it," <a href="http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/">writes Adrienne LaFrance</a> in The Atlantic. "Ephemerality is built into the very architecture of the web, which was intended to be a messaging system, not a library." In other words, if your content has enduring value to you or others, keeping it online over time will require active curation.</p>
+
+<img src="img/Notfound.png" alt="404 Not Found error message in Spanish" width="600" height="233" />
+
+<h2>Today’s News is Tomorrow’s History </h2>
+
+<em>“The written symbol extends infinitely, as regards time and space, the range within which one mind can communicate with another.”
+- Samuel Butler, </em>Life and Habit<em>, London: Trubner &amp; Co, 1978</em>
+
+<p>Will anything we publish on the web today be accessible 100 years from now? If the stories we publish have value today, this is an important question.</p>
+
+<p>The New York Times has fully digitized articles dating to its founding in 1851. You can explore this yourself in the <a href="http://timesmachine.nytimes.com/browser">TimesMachine</a>. Evan Sandhaus, lead architect of semantic platforms at the <em>Times</em>, <a href="https://medium.com/@adriennelaf/what-will-yesterdays-news-look-like-tomorrow-7f82290ab8d0#.57szm0eon">says</a> the Internet has forced the Times to confront “challenges that are more often encountered in the library space than they are in the online publishing space.”</p>
+
+<p>I’m sorry to tell you this, but we need to become librarians and archivists along with all our other hats. If what we produce matters beyond today, we need to care for it over time. We need to manage our content for the long haul, and not deceive ourselves into thinking our website is an archive.</p>
+
+<p>Our websites are merely the tip of the iceberg of the archive we should be building.</p>
