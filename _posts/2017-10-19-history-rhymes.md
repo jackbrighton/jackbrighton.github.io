@@ -12,6 +12,6 @@ I've long been interested in the long view. When I left my position at Illinois 
 
 I don't believe everything I see and hear, and I know media archives can be propagandistic just like any other form of communication. But they can also represent *context*. 
 
-So I launched a new blog focused on detecting the echos from history reflecting through the last few decades of archival media. I hope to announce a more ambitious project of turning old media into new media, but I'll leave that pretty cryptic for now. I'm working my way through some 30,196 media objects in the Illinois Public Media Archives, trying to find the signals among the noise, so this is taking pretty much all of my "free time."
+So I launched a new blog focused on detecting the echos from history reflecting through the past few decades of archival media. I hope to announce a more ambitious project of turning old media into new media, but I'll leave that pretty cryptic for now. I'm working my way through some 30,196 media objects in the Illinois Public Media Archives, trying to find the signals amidst the noise, and that is consuming pretty much all of my "free time."
 
 But I can't help sharing some of the gold as I find it, so I hope you enjoy my new [History Rhymes journal](http://historyrhymes.org/).
