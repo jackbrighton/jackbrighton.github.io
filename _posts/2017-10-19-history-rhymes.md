@@ -6,7 +6,7 @@ date:       2017-10-19 12:00:00
 author:     "Jack Brighton"
 header-img: "img/1878_Adams_Monumental_Illustrated_Panorama_of_History_-_Geographicus_-_WorldHistory-adams-1871-2000px.jpg"
 ---
-##Introducing History Rhymes
+## Introducing History Rhymes
 
 I've long been interested in the long view. When I left my position at Illinois Public Media in 2015 to work on other projects, one of the projects was exploratory storytelling using archival media. For the past century or so we've stored so much of our historical resources in audiovisual records. In some important ways, these materials have become our memory.
 
