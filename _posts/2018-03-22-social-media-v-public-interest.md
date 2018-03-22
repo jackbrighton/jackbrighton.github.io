@@ -7,9 +7,7 @@ author:     "Jack Brighton"
 header-img: "img/social-media-panopticon.png"
 ---
 
-"A decreasing presence in the Facebook algorithm and data concerns. The often toxic environment of Twitter. The surfacing of fake news in Google searches. News organizations have realized more and more that their content is being held hostage to other platforms."
-
-[David Beard at Poynter](https://www.poynter.org/news/why-paying-attention-homepage-will-pay)
+"_A decreasing presence in the Facebook algorithm and data concerns. The often toxic environment of Twitter. The surfacing of fake news in Google searches. News organizations have realized more and more that their content is being held hostage to other platforms_." ~ [David Beard at Poynter](https://www.poynter.org/news/why-paying-attention-homepage-will-pay)
 
 Back in the early days of social media, I tried to warn colleagues in public broadcasting that the big platforms don't share our public mission. The goal of tech giants like Facebook and Twitter is aggregating and monetizing human attention by dominating every online landscape. 
 
